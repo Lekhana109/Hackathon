@@ -61,7 +61,7 @@ Add your Google Generative AI key to `.env.local`:
 GOOGLE_GENERATIVE_AI_API_KEY=your_key_here
 ```
 
-Get a key from <https://aistudio.google.com/app/apikey>.
+Get a key from 
 
 Start the demo server:
 
@@ -69,7 +69,7 @@ Start the demo server:
 npm run dev
 ```
 
-Open <http://localhost:3000>.
+Open 
 
 ## Verification
 
